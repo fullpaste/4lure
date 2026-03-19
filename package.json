@@ -1,0 +1,12 @@
+{
+  "name": "4lure-discord-bot",
+  "version": "1.0.0",
+  "description": "4lure scene pack lookup bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
